@@ -1,6 +1,6 @@
 # Hi, I'm Vasyl
 
-Software Engineer working on browser extensions, hard front-end problems, and DLP security.
+Software Engineer working on browser extensions, hard front-end problems, and data security (DLP) in the browser.
 
 ## What I build
 
