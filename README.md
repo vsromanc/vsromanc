@@ -1,5 +1,5 @@
 # Hi, I'm Vasyl
 
-Software Engineer focused on browser extensions and front-end development.
+Software Engineer recently started my open source journey.
 
-Recently started my open source journey — check out my repos if you're into browser extension tooling.
+- **[webext-blob-rpc](https://github.com/vsromanc/webext-blob-rpc)** — Type-safe RPC for browser extensions with native Blob support via MessagePort
